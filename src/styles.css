@@ -1,0 +1,14 @@
+.App {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+}
+
+table {
+  padding: 0.1em;
+}
+
+td {
+  padding: 0.5em;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
